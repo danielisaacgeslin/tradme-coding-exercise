@@ -1,0 +1,32 @@
+/*general*/
+.transition {transition:All 0.2s ease-in-out; -webkit-transition:All 0.2s ease-in-out; -moz-transition:All 0.2s ease-in-out; -o-transition:All 0.2s ease-in-out;}
+h1, h2, h3, h4, h5, p, a {
+  margin: 0;
+}
+
+h1 {
+  margin: 15px 0 5px 0;
+}
+
+form {
+  div {
+    margin:15px 0 5px 0;
+  }
+}
+
+.results {
+  margin-top: 15px;
+  section {
+    margin-top: 15px;
+    h4 {
+      margin-bottom: 5px;
+    }
+  }
+}
+
+table {
+  margin-top: 15px;
+  .info td {
+    font-weight: bold;
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "costs": [
+    {
+      "id": 1,
+      "type": "Small Package",
+      "dimensions": {
+        "length": 210,
+        "breadth": 280,
+        "height": 130
+      },
+      "cost": 5
+    },
+    {
+      "id": 2,
+      "type": "Medium Package",
+      "dimensions": {
+        "length": 280,
+        "breadth": 390,
+        "height": 180
+      },
+      "cost": 7.5
+    },
+    {
+      "id": 3,
+      "type": "Large Package",
+      "dimensions": {
+        "length": 380,
+        "breadth": 550,
+        "height": 200
+      },
+      "cost": 8.5
+    }
+  ],
+  "maxWeight": 25
+}

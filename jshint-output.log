@@ -1,0 +1,21 @@
+
+1 lint errors found in test\services\calculator.service.spec.js
+  [2,315](W101) Line is too long.
+1 lint errors found in test\services\calculator.service.spec.js
+  [2,315](W101) Line is too long.
+1 lint errors found in test\services\calculator.service.spec.js
+  [2,315](W101) Line is too long.
+1 lint errors found in app\services\calculator.service.js
+  [37,55](W033) Missing semicolon.
+1 lint errors found in test\services\calculator.service.spec.js
+  [2,315](W101) Line is too long.
+1 lint errors found in app\services\calculator.service.js
+  [37,55](W033) Missing semicolon.
+1 lint errors found in test\services\calculator.service.spec.js
+  [2,315](W101) Line is too long.
+1 lint errors found in test\services\calculator.service.spec.js
+  [2,315](W101) Line is too long.
+1 lint errors found in test\services\calculator.service.spec.js
+  [2,315](W101) Line is too long.
+1 lint errors found in app\controllers\app.controller.js
+  [19,12](W030) Expected an assignment or function call and instead saw an expression.
