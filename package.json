@@ -10,7 +10,8 @@
     "connect": "gulp connect",
     "bower": "bower install",
     "test": "karma start karma.conf.js",
-    "full-install": "npm install & npm run bower"
+    "full-install": "npm install & npm run bower",
+    "push": "git add * && git commit -m update && git push"
   },
   "devDependencies": {
     "bower": "^1.7.9",
