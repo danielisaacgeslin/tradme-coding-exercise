@@ -5,7 +5,7 @@
 	ajaxService.$inject = ['$http'];
 
 	function ajaxService($http) {
-		var api = '/';
+		var api = '';
 
 		return {
 			/*GET*/
