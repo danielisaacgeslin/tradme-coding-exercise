@@ -1,3 +1,4 @@
+Run this commands on the root folder of the app to get the following results
 
 #Instalation
 * npm run full-install
